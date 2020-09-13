@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://github-readme-stats.vercel.app/api?username=hirawatt&show_icons=true&count_private=true)
 <!--
 **hirawatt/hirawatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
