@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there!:wave:
+![GitHub followers](https://img.shields.io/github/followers/hirawatt?label=Follow&style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hirawatt.hirawatt)
+---
 ![](https://github-readme-stats.vercel.app/api?username=hirawatt&show_icons=true&count_private=true)
+---
+[![img](https://image.flaticon.com/icons/svg/725/725643.svg=30x20)](mailto:hirawatt@protonmail.com)
+
 <!--
 **hirawatt/hirawatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
