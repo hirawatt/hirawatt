@@ -20,7 +20,7 @@
                 <summary><a href="#"><img valign="middle" width="30" src="https://raw.githubusercontent.com/hirawatt/hirawatt/master/russian-doll.png"/></a></summary>
                 <details>
                   <summary><a href="#"><img valign="middle" width="25" src="https://raw.githubusercontent.com/hirawatt/hirawatt/master/russian-doll.png"/></a></summary>
-                  [ ![mail](https://image.flaticon.com/icons/svg/725/725643.svg=20x40)](mailto:hirawatt@protonmail.com)              
+                  [mail](mailto:hirawatt@protonmail.com)              
                 </details>                
               </details>
             </details>
