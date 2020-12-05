@@ -20,7 +20,7 @@
                 <summary><a href="#"><img valign="middle" width="30" src="https://raw.githubusercontent.com/hirawatt/hirawatt/master/russian-doll.png"/></a></summary>
                 <details>
                   <summary><a href="#"><img valign="middle" width="25" src="https://raw.githubusercontent.com/hirawatt/hirawatt/master/russian-doll.png"/></a></summary>
-                  [mail](mailto:hirawatt@protonmail.com)              
+                  📫 - hirawatt@protonmail.com         
                 </details>                
               </details>
             </details>
