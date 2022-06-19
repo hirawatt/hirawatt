@@ -1,9 +1,16 @@
 ### Hi there!:wave:
+
 ![GitHub followers](https://img.shields.io/github/followers/hirawatt?label=Follow&style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hirawatt.hirawatt)
+
 ---
+
 ![](https://github-readme-stats.vercel.app/api?username=hirawatt&show_icons=true&count_private=true)
+
 ---
+
+- 📫 How to reach me: ...
+
 <details>
   <summary><a href="#"><img valign="middle" width="60" src="https://raw.githubusercontent.com/hirawatt/hirawatt/master/russian-doll.png"/></a></summary>
   <details>
@@ -20,7 +27,7 @@
                 <summary><a href="#"><img valign="middle" width="30" src="https://raw.githubusercontent.com/hirawatt/hirawatt/master/russian-doll.png"/></a></summary>
                 <details>
                   <summary><a href="#"><img valign="middle" width="25" src="https://raw.githubusercontent.com/hirawatt/hirawatt/master/russian-doll.png"/></a></summary>
-                  📫 - hirawatt@protonmail.com         
+                  📫 - vishalhirawat@proton.com     
                 </details>                
               </details>
             </details>
@@ -31,17 +38,13 @@
   </details>
 </details>
 
+---
+
+- 🔭 I’m currently working on [finance-tools](https://github.com/hirawatt/finance-tools)
+- 🌱 I’m currently learning Golang, Machine Learning for Quantitative Applications.
+- ⚡ Fun fact: You are moving at a speed of 1,670 km/h while reading this!
+
 <!--
-**hirawatt/hirawatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
