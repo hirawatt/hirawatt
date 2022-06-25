@@ -3,12 +3,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/hirawatt?label=Follow&style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hirawatt.hirawatt)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
-![](https://github-readme-stats.vercel.app/api?username=hirawatt&show_icons=true&count_private=true)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
 - 📫 How to reach me: ...
 
 <details>
