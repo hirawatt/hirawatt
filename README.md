@@ -1,4 +1,4 @@
-### Hi there!:wave
+### Hi there!:wave:
 
 ![GitHub followers](https://img.shields.io/github/followers/hirawatt?label=Follow&style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hirawatt.hirawatt)
