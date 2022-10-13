@@ -34,8 +34,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-- 🔭 I’m currently working on [finance-tools](https://github.com/hirawatt/finance-tools)
-- 🌱 I’m currently learning Golang, Machine Learning for Quantitative Applications.
+- 🔭 I’m currently working on [TradeBoard](https://tradeboard.carrd.co/)
+- 🌱 I’m currently learning Flutter to build cross-platform desktop applications!
 - ⚡ Fun fact: You are moving at a speed of 1,670 km/h while reading this!
 
 <!--
