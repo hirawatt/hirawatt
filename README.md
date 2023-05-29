@@ -1,7 +1,4 @@
-### Hi there!:wave:
-
-![GitHub followers](https://img.shields.io/github/followers/hirawatt?label=Follow&style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hirawatt.hirawatt)
+### Hi there!:wave: ![GitHub followers](https://img.shields.io/github/followers/hirawatt?label=Follow&style=social)
 
 - 📫 How to reach me: ...
 
