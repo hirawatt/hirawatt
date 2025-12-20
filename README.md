@@ -5,3 +5,8 @@
 - 🔭 I’m currently working on [HirawatTech](https://tech.hirawat.in/) & [TryAR](https://tryar.in)
 - ⚡ Fun fact: You are moving at a speed of 1,670 km/h while reading this!
 - 💬 Ask me about: Movie Recommendations, Open-Source Software
+
+---
+
+<!-- my-badges start -->
+<!-- my-badges end -->
