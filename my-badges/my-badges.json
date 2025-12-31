@@ -117,5 +117,19 @@
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/tech/commit/cb9c7783c9f1f277d3ea6cb46c1eb348ad12e049\">cb9c778</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/3531caf1f0dc7c52e18bc0d73ba903a276eca8a2\">3531caf</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/42569cd6cefc085ecc40af9a640658ec7aef871d\">42569cd</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/d1cfa5e447812ef7ecd18d67be3ed14cfb9b2aeb\">d1cfa5e</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/438e033c7e6c69ed0864e9c988f7d5de7b5a7141\">438e033</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/f80d1afdddf23956f5935dbc1bb173769bd2a743\">f80d1af</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you! Commits of force:",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/ctrl_z/commit/dd737d353855c46ca5246f18632c3e50d9d523c0\">dd737d3</a>\n- <a href=\"https://github.com/hirawatt/ctrl_z/commit/6417be64b15e20a378c23cbdaa6fccf19c2b26c4\">6417be6</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/sg-data-dashboard/commit/af57fb81a96bcda899f4abe45d8a7dec9d483388\">af57fb8</a>\n- <a href=\"https://github.com/hirawatt/sg-data-dashboard/commit/db1b25e9c686a40866c3bc53c011c7cf3a43b400\">db1b25e</a>\n- <a href=\"https://github.com/hirawatt/sg-data-dashboard/commit/f3a574b496e9d2da71f04930e750a345551f442b\">f3a574b</a>\n- <a href=\"https://github.com/hirawatt/sg-data-dashboard/commit/b6df7e1212b16f4a77dff8b822821206f5779f76\">b6df7e1</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
