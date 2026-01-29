@@ -6,7 +6,7 @@ Repos:
 
 * <a href="https://github.com/himanshuNegi755/dineezy">himanshuNegi755/dineezy: ★24</a>
 * <a href="https://github.com/hirawatt/finance-tools">hirawatt/finance-tools: ★17</a>
-* <a href="https://github.com/hirawatt/pineScripts">hirawatt/pineScripts: ★13</a>
+* <a href="https://github.com/hirawatt/pineScripts">hirawatt/pineScripts: ★11</a>
 * <a href="https://github.com/hirawatt/BSE_NSE_Announcement">hirawatt/BSE_NSE_Announcement: ★6</a>
 * <a href="https://github.com/hirawatt/AdaptiveNoiseCancellation">hirawatt/AdaptiveNoiseCancellation: ★5</a>
 * <a href="https://github.com/hirawatt/corp_actions">hirawatt/corp_actions: ★5</a>
