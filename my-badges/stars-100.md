@@ -8,7 +8,7 @@ Repos:
 * <a href="https://github.com/hirawatt/finance-tools">hirawatt/finance-tools: ★17</a>
 * <a href="https://github.com/hirawatt/pineScripts">hirawatt/pineScripts: ★11</a>
 * <a href="https://github.com/hirawatt/BSE_NSE_Announcement">hirawatt/BSE_NSE_Announcement: ★7</a>
-* <a href="https://github.com/hirawatt/AdaptiveNoiseCancellation">hirawatt/AdaptiveNoiseCancellation: ★5</a>
+* <a href="https://github.com/hirawatt/AdaptiveNoiseCancellation">hirawatt/AdaptiveNoiseCancellation: ★6</a>
 * <a href="https://github.com/hirawatt/corp_actions">hirawatt/corp_actions: ★5</a>
 * <a href="https://github.com/hirawatt/mmi">hirawatt/mmi: ★3</a>
 * <a href="https://github.com/himanshuNegi755/tth">himanshuNegi755/tth: ★2</a>
