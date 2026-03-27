@@ -51,6 +51,7 @@ Repos:
 * <a href="https://github.com/hirawatt/negotiator">hirawatt/negotiator: ★1</a>
 * <a href="https://github.com/hirawatt/thegreenlens">hirawatt/thegreenlens: ★1</a>
 * <a href="https://github.com/hirawatt/Sahayak">hirawatt/Sahayak: ★1</a>
+* <a href="https://github.com/AccuScript-Consultancy/awesome-literature-review">AccuScript-Consultancy/awesome-literature-review: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
