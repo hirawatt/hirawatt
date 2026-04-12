@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"added\".",
-    "body": "My favorite commit message words are:\n\n1. added (used 161 times)\n2. updated (used 92 times)\n3. update (used 78 times)\n4. initial (used 62 times)\n5. commit (used 61 times)",
+    "body": "My favorite commit message words are:\n\n1. added (used 161 times)\n2. updated (used 92 times)\n3. update (used 81 times)\n4. initial (used 68 times)\n5. merge (used 61 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/my-site/commit/7f0e06a19bf67df87974db5683ec14bf815b865c\">7f0e06a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/tech/commit/7698ac7870cda4b4edc00fa23e89808b2981e9bb\">7698ac7</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AccuScript-Consultancy/awesome-literature-review/commit/edd539841b5031cf1ade7b29ed8e8be064b1185a\">edd5398</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/c75c0429280f929fa8683609d358a94bcafe50e9\">c75c042</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/3e85977953c1201f55a558ad814d77e3fe75d5c1\">3e85977</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/1700b6f54f1037a1193df56f4b6cf8e6d6fe96ab\">1700b6f</a>\n- <a href=\"https://github.com/hirawatt/my-site/commit/989ad4de9a5368fa2bf33e93ef0b4b0603a1d776\">989ad4d</a>\n- <a href=\"https://github.com/hirawatt/native-app-cicd/commit/063608c04bd47bcb9c78735a69b1c58509649a69\">063608c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/tech/commit/bc3910172c7a8f3d4f825e662e7cff02faa6dd9e\">bc39101</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/c2fcc6847e70ea21d90112c758687c376f242ffb\">c2fcc68</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/7698ac7870cda4b4edc00fa23e89808b2981e9bb\">7698ac7</a>\n- <a href=\"https://github.com/AccuScript-Consultancy/awesome-literature-review/commit/edd539841b5031cf1ade7b29ed8e8be064b1185a\">edd5398</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/c75c0429280f929fa8683609d358a94bcafe50e9\">c75c042</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/3e85977953c1201f55a558ad814d77e3fe75d5c1\">3e85977</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -145,5 +145,19 @@
     "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/stock_screener/commit/d61121311682472cabde991735fb9cf6a0998ee7\">d611213</a>\n- <a href=\"https://github.com/hirawatt/finance-tools/commit/6659e10aaabee1d800092e0554ff66cba1d6b776\">6659e10</a>\n- <a href=\"https://github.com/hirawatt/stock-search/commit/8cdf1af4b32611365caba8e11b81b3758d92ef5d\">8cdf1af</a>\n- <a href=\"https://github.com/hirawatt/finance-tools/commit/aaa0038063f68f89c356f220510ff9057287e294\">aaa0038</a>\n- <a href=\"https://github.com/hirawatt/stock-search/commit/9d949ab7c0727d691d16cf8381ddb4d952cff6cf\">9d949ab</a>\n- <a href=\"https://github.com/hirawatt/stock-search/commit/477b0d4f1f2f1f4e49557b036ffdf0030153b968\">477b0d4</a>",
     "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/tech/commit/aa5d8785dc4d13db0480c382d06fc02720e16de8\">aa5d878</a>: Fix cookie banner fixed at bottom for mobile view\n- <a href=\"https://github.com/hirawatt/tech/commit/6e819ef6c183e565439d55c3b1c1cc07f835ea28\">6e819ef</a>: Fix mobile view menu options and cookie banner layout",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/tech/commit/7698ac7870cda4b4edc00fa23e89808b2981e9bb\">7698ac7</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   }
 ]
