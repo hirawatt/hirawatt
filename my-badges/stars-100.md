@@ -46,7 +46,6 @@ Repos:
 * <a href="https://github.com/hirawatt/joplin-custom-css">hirawatt/joplin-custom-css: ★1</a>
 * <a href="https://github.com/hirawatt/tally-ledger">hirawatt/tally-ledger: ★1</a>
 * <a href="https://github.com/hirawatt/bidding">hirawatt/bidding: ★1</a>
-* <a href="https://github.com/hirawatt/photos">hirawatt/photos: ★1</a>
 * <a href="https://github.com/hirawatt/ctrlz">hirawatt/ctrlz: ★1</a>
 * <a href="https://github.com/hirawatt/negotiator">hirawatt/negotiator: ★1</a>
 * <a href="https://github.com/hirawatt/thegreenlens">hirawatt/thegreenlens: ★1</a>
