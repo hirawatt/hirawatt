@@ -19,6 +19,7 @@ Repos:
 * <a href="https://github.com/hirawatt/nse_oi_analysis">hirawatt/nse_oi_analysis: ★2</a>
 * <a href="https://github.com/hirawatt/indexCreator">hirawatt/indexCreator: ★2</a>
 * <a href="https://github.com/hirawatt/my-site">hirawatt/my-site: ★2</a>
+* <a href="https://github.com/hirawatt/tech">hirawatt/tech: ★2</a>
 * <a href="https://github.com/hirawatt/joplin_templates">hirawatt/joplin_templates: ★1</a>
 * <a href="https://github.com/hirawatt/stocktalk">hirawatt/stocktalk: ★1</a>
 * <a href="https://github.com/hirawatt/stock_screener">hirawatt/stock_screener: ★1</a>
@@ -28,7 +29,6 @@ Repos:
 * <a href="https://github.com/hirawatt/roadmap">hirawatt/roadmap: ★1</a>
 * <a href="https://github.com/hirawatt/stock-search">hirawatt/stock-search: ★1</a>
 * <a href="https://github.com/hirawatt/mailto">hirawatt/mailto: ★1</a>
-* <a href="https://github.com/hirawatt/tech">hirawatt/tech: ★1</a>
 * <a href="https://github.com/hirawatt/auction-tool">hirawatt/auction-tool: ★1</a>
 * <a href="https://github.com/hirawatt/scratch-gui">hirawatt/scratch-gui: ★1</a>
 * <a href="https://github.com/hirawatt/scratch-vm">hirawatt/scratch-vm: ★1</a>
