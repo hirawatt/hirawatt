@@ -4,7 +4,6 @@
 
 Repos:
 
-* <a href="https://github.com/himanshuNegi755/dineezy">himanshuNegi755/dineezy: ★24</a>
 * <a href="https://github.com/hirawatt/finance-tools">hirawatt/finance-tools: ★18</a>
 * <a href="https://github.com/hirawatt/pineScripts">hirawatt/pineScripts: ★11</a>
 * <a href="https://github.com/hirawatt/BSE_NSE_Announcement">hirawatt/BSE_NSE_Announcement: ★7</a>
@@ -51,6 +50,7 @@ Repos:
 * <a href="https://github.com/hirawatt/thegreenlens">hirawatt/thegreenlens: ★1</a>
 * <a href="https://github.com/hirawatt/Sahayak">hirawatt/Sahayak: ★1</a>
 * <a href="https://github.com/AccuScript-Consultancy/awesome-literature-review">AccuScript-Consultancy/awesome-literature-review: ★1</a>
+* <a href="https://github.com/hirawatt/scadder">hirawatt/scadder: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
