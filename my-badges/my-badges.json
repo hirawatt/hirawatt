@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"added\".",
-    "body": "My favorite commit message words are:\n\n1. added (used 159 times)\n2. updated (used 94 times)\n3. update (used 85 times)\n4. initial (used 67 times)\n5. merge (used 63 times)",
+    "body": "My favorite commit message words are:\n\n1. added (used 161 times)\n2. updated (used 94 times)\n3. update (used 85 times)\n4. initial (used 67 times)\n5. merge (used 64 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/tech/commit/7698ac7870cda4b4edc00fa23e89808b2981e9bb\">7698ac7</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/tech/commit/adc7b60b833d7f506ab2c0ac67d99d32454f293e\">adc7b60</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -122,7 +122,7 @@
     "id": "may-the-4th",
     "tier": 0,
     "desc": "May the 4th be with you!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/ctrl_z/commit/dd737d353855c46ca5246f18632c3e50d9d523c0\">dd737d3</a>\n- <a href=\"https://github.com/hirawatt/ctrl_z/commit/6417be64b15e20a378c23cbdaa6fccf19c2b26c4\">6417be6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/tech/commit/adc7b60b833d7f506ab2c0ac67d99d32454f293e\">adc7b60</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/95cf9d5daa4a154a80249e7aa91915d1a7248951\">95cf9d5</a>\n- <a href=\"https://github.com/hirawatt/ctrl_z/commit/dd737d353855c46ca5246f18632c3e50d9d523c0\">dd737d3</a>\n- <a href=\"https://github.com/hirawatt/ctrl_z/commit/6417be64b15e20a378c23cbdaa6fccf19c2b26c4\">6417be6</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   },
   {
