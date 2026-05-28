@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/hirawatt/finance-tools">hirawatt/finance-tools: ★18</a>
+* <a href="https://github.com/hirawatt/finance-tools">hirawatt/finance-tools: ★19</a>
 * <a href="https://github.com/hirawatt/pineScripts">hirawatt/pineScripts: ★11</a>
 * <a href="https://github.com/hirawatt/BSE_NSE_Announcement">hirawatt/BSE_NSE_Announcement: ★7</a>
 * <a href="https://github.com/hirawatt/AdaptiveNoiseCancellation">hirawatt/AdaptiveNoiseCancellation: ★6</a>
