@@ -1,33 +1,5 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/himanshuNegi755/dineezy/commit/a9dd20ab22f571dfe8b7e3871511389c67f75065\"><strong>a</strong>9dd20ab22f571dfe8b7e3871511389c67f75065</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/hirawatt/stock_screener/commit/ab70d9c243ac7a8ee787563916171a74f17795c7\"><strong>ab</strong>70d9c243ac7a8ee787563916171a74f17795c7</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "cafe-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"cafe\" once.",
-    "body": "- <a href=\"https://github.com/hirawatt/tech/commit/c75c0429280f929fa8683609d358a94bcafe50e9\">c75c0429280f929fa8683609d358a94b<strong>cafe</strong>50e9</a>",
-    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
-  },
-  {
-    "id": "chore-commit",
-    "tier": 0,
-    "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/tech/commit/a5a640e300757829cf13cf3117c20141226383a4\">a5a640e</a>: chore(ui): Update .gitignore and adjust client logo sizes for improved layout",
-    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
-  },
-  {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
@@ -35,39 +7,11 @@
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/tech/commit/84ab3ee41507f2c7fbcc0cf695a68f6155384671\">84ab3ee</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"added\".",
-    "body": "My favorite commit message words are:\n\n1. added (used 161 times)\n2. updated (used 94 times)\n3. update (used 88 times)\n4. initial (used 67 times)\n5. merge (used 65 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/native-app-cicd/commit/063608c04bd47bcb9c78735a69b1c58509649a69\">063608c</a>\n- <a href=\"https://github.com/hirawatt/bse-announcements-stlite/commit/34b19428dc8c9d63a4928ea9d99fbdd5e3b9aa5b\">34b1942</a>\n- <a href=\"https://github.com/hirawatt/BSE_NSE_Announcement/commit/7cc517de8cef6fb16ae73f2d795589aacdb5b8dc\">7cc517d</a>\n- <a href=\"https://github.com/hirawatt/BSE_NSE_Announcement/commit/7731f14752f3104e8caf6907df7c4b215130da1b\">7731f14</a>\n- <a href=\"https://github.com/hirawatt/BSE_NSE_Announcement/commit/c70f785621a17252672f184c96a486a7e7f29cf3\">c70f785</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
-  },
-  {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/tech/commit/adc7b60b833d7f506ab2c0ac67d99d32454f293e\">adc7b60</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
     "id": "polite-coder",
@@ -89,75 +33,5 @@
     "desc": "I'm a star gazer!",
     "body": "I've starred over 1000 repositories!",
     "image": "https://my-badges.github.io/my-badges/star-gazer.png"
-  },
-  {
-    "id": "stars-100",
-    "tier": 1,
-    "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/hirawatt/finance-tools\">hirawatt/finance-tools: ★19</a>\n* <a href=\"https://github.com/hirawatt/pineScripts\">hirawatt/pineScripts: ★11</a>\n* <a href=\"https://github.com/hirawatt/BSE_NSE_Announcement\">hirawatt/BSE_NSE_Announcement: ★7</a>\n* <a href=\"https://github.com/hirawatt/AdaptiveNoiseCancellation\">hirawatt/AdaptiveNoiseCancellation: ★6</a>\n* <a href=\"https://github.com/hirawatt/corp_actions\">hirawatt/corp_actions: ★6</a>\n* <a href=\"https://github.com/hirawatt/mmi\">hirawatt/mmi: ★3</a>\n* <a href=\"https://github.com/himanshuNegi755/tth\">himanshuNegi755/tth: ★2</a>\n* <a href=\"https://github.com/hirawatt/hirawatt\">hirawatt/hirawatt: ★2</a>\n* <a href=\"https://github.com/hirawatt/dineezy\">hirawatt/dineezy: ★2</a>\n* <a href=\"https://github.com/himanshuNegi755/chitchat-web\">himanshuNegi755/chitchat-web: ★2</a>\n* <a href=\"https://github.com/hirawatt/after_hours_us\">hirawatt/after_hours_us: ★2</a>\n* <a href=\"https://github.com/hirawatt/nse_oi_analysis\">hirawatt/nse_oi_analysis: ★2</a>\n* <a href=\"https://github.com/hirawatt/indexCreator\">hirawatt/indexCreator: ★2</a>\n* <a href=\"https://github.com/hirawatt/my-site\">hirawatt/my-site: ★2</a>\n* <a href=\"https://github.com/hirawatt/tech\">hirawatt/tech: ★2</a>\n* <a href=\"https://github.com/hirawatt/joplin_templates\">hirawatt/joplin_templates: ★1</a>\n* <a href=\"https://github.com/hirawatt/stocktalk\">hirawatt/stocktalk: ★1</a>\n* <a href=\"https://github.com/hirawatt/stock_screener\">hirawatt/stock_screener: ★1</a>\n* <a href=\"https://github.com/hirawatt/discord_markets_bot\">hirawatt/discord_markets_bot: ★1</a>\n* <a href=\"https://github.com/hirawatt/algorithmic-trading\">hirawatt/algorithmic-trading: ★1</a>\n* <a href=\"https://github.com/hirawatt/st_templates\">hirawatt/st_templates: ★1</a>\n* <a href=\"https://github.com/hirawatt/roadmap\">hirawatt/roadmap: ★1</a>\n* <a href=\"https://github.com/hirawatt/stock-search\">hirawatt/stock-search: ★1</a>\n* <a href=\"https://github.com/hirawatt/mailto\">hirawatt/mailto: ★1</a>\n* <a href=\"https://github.com/hirawatt/auction-tool\">hirawatt/auction-tool: ★1</a>\n* <a href=\"https://github.com/hirawatt/scratch-gui\">hirawatt/scratch-gui: ★1</a>\n* <a href=\"https://github.com/hirawatt/scratch-vm\">hirawatt/scratch-vm: ★1</a>\n* <a href=\"https://github.com/hirawatt/scratch-blocks\">hirawatt/scratch-blocks: ★1</a>\n* <a href=\"https://github.com/hirawatt/bse-announcements-stlite\">hirawatt/bse-announcements-stlite: ★1</a>\n* <a href=\"https://github.com/hirawatt/fpga-dasboard\">hirawatt/fpga-dasboard: ★1</a>\n* <a href=\"https://github.com/hirawatt/jt-fantasy-polls\">hirawatt/jt-fantasy-polls: ★1</a>\n* <a href=\"https://github.com/hirawatt/tradeboard\">hirawatt/tradeboard: ★1</a>\n* <a href=\"https://github.com/hirawatt/hugo-roxo\">hirawatt/hugo-roxo: ★1</a>\n* <a href=\"https://github.com/hirawatt/ht-triocorp-site\">hirawatt/ht-triocorp-site: ★1</a>\n* <a href=\"https://github.com/hirawatt/hugo-rainmatter\">hirawatt/hugo-rainmatter: ★1</a>\n* <a href=\"https://github.com/hirawatt/ht-triocorp-tella\">hirawatt/ht-triocorp-tella: ★1</a>\n* <a href=\"https://github.com/hirawatt/jute\">hirawatt/jute: ★1</a>\n* <a href=\"https://github.com/hirawatt/hugo-product-launch\">hirawatt/hugo-product-launch: ★1</a>\n* <a href=\"https://github.com/hirawatt/joplin-custom-css\">hirawatt/joplin-custom-css: ★1</a>\n* <a href=\"https://github.com/hirawatt/tally-ledger\">hirawatt/tally-ledger: ★1</a>\n* <a href=\"https://github.com/hirawatt/bidding\">hirawatt/bidding: ★1</a>\n* <a href=\"https://github.com/hirawatt/ctrlz\">hirawatt/ctrlz: ★1</a>\n* <a href=\"https://github.com/hirawatt/negotiator\">hirawatt/negotiator: ★1</a>\n* <a href=\"https://github.com/hirawatt/thegreenlens\">hirawatt/thegreenlens: ★1</a>\n* <a href=\"https://github.com/hirawatt/Sahayak\">hirawatt/Sahayak: ★1</a>\n* <a href=\"https://github.com/AccuScript-Consultancy/awesome-literature-review\">AccuScript-Consultancy/awesome-literature-review: ★1</a>\n* <a href=\"https://github.com/hirawatt/scadder\">hirawatt/scadder: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
-    "image": "https://my-badges.github.io/my-badges/stars-100.png"
-  },
-  {
-    "id": "sleepy-coder",
-    "tier": 0,
-    "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/finance-tools/commit/8266a2db11144ac2efbe07bf8bfb157085357fe0\">8266a2d</a>\n- <a href=\"https://github.com/hirawatt/finance-tools/commit/787bedc88694b0a7488ce1d4a94fd26b0110f80f\">787bedc</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/1caf7ac3296e023652e43ac42c1882140efa67f0\">1caf7ac</a>\n- <a href=\"https://github.com/hirawatt/up-sf-dash/commit/1ddef6868fec1c3e72ceea54f0be0840c352052f\">1ddef68</a>\n- <a href=\"https://github.com/hirawatt/ctrlz/commit/21f71260ffe0ececd2a859b7c8209317ea4c48b2\">21f7126</a>\n- <a href=\"https://github.com/hirawatt/my-site/commit/1bf6812b58beadc920c0ee2468e2cd7ba9501623\">1bf6812</a>",
-    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
-  },
-  {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/tech/commit/da42a3ce6d442b7a5ab1a718aad072de1e390bb5\">da42a3c</a>\n- <a href=\"https://github.com/hirawatt/ai-note-organiser/commit/9fa2b89544cc7ac51e3710635e2e3d3d96c51aff\">9fa2b89</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/bc3910172c7a8f3d4f825e662e7cff02faa6dd9e\">bc39101</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/c2fcc6847e70ea21d90112c758687c376f242ffb\">c2fcc68</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/7698ac7870cda4b4edc00fa23e89808b2981e9bb\">7698ac7</a>\n- <a href=\"https://github.com/AccuScript-Consultancy/awesome-literature-review/commit/edd539841b5031cf1ade7b29ed8e8be064b1185a\">edd5398</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/tech/commit/9c4ed4f1611dd09a29b559e47ba772af5125c695\">9c4ed4f</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/0fbe90a52aa8aafefd394b52c8c9ccef8ac2160c\">0fbe90a</a>\n- <a href=\"https://github.com/hirawatt/my-site/commit/08d9a89b9f8f6ff69db5c71e674724b93349c7a0\">08d9a89</a>\n- <a href=\"https://github.com/hirawatt/my-site/commit/3c9e30bf50edd44c650b144043e7e7da52b07143\">3c9e30b</a>\n- <a href=\"https://github.com/hirawatt/my-site/commit/33abd103203630c8c6a627f1abf21f25a5a8758e\">33abd10</a>\n- <a href=\"https://github.com/hirawatt/my-site/commit/125228ceefe582ec2062ec7545eb4df91b3319c0\">125228c</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
-    "id": "may-the-4th",
-    "tier": 0,
-    "desc": "May the 4th be with you!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/tech/commit/adc7b60b833d7f506ab2c0ac67d99d32454f293e\">adc7b60</a>\n- <a href=\"https://github.com/hirawatt/tech/commit/95cf9d5daa4a154a80249e7aa91915d1a7248951\">95cf9d5</a>\n- <a href=\"https://github.com/hirawatt/ctrl_z/commit/dd737d353855c46ca5246f18632c3e50d9d523c0\">dd737d3</a>\n- <a href=\"https://github.com/hirawatt/ctrl_z/commit/6417be64b15e20a378c23cbdaa6fccf19c2b26c4\">6417be6</a>",
-    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
-  },
-  {
-    "id": "pi-day",
-    "tier": 0,
-    "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/sg-data-dashboard/commit/af57fb81a96bcda899f4abe45d8a7dec9d483388\">af57fb8</a>\n- <a href=\"https://github.com/hirawatt/sg-data-dashboard/commit/db1b25e9c686a40866c3bc53c011c7cf3a43b400\">db1b25e</a>\n- <a href=\"https://github.com/hirawatt/sg-data-dashboard/commit/f3a574b496e9d2da71f04930e750a345551f442b\">f3a574b</a>\n- <a href=\"https://github.com/hirawatt/sg-data-dashboard/commit/b6df7e1212b16f4a77dff8b822821206f5779f76\">b6df7e1</a>",
-    "image": "https://my-badges.github.io/my-badges/pi-day.png"
-  },
-  {
-    "id": "alien-day",
-    "tier": 0,
-    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/codelab-webxr-master/commit/0baa938d24d7cff49b822dc7569a32b36f0f7a68\">0baa938</a>",
-    "image": "https://my-badges.github.io/my-badges/alien-day.png"
-  },
-  {
-    "id": "science-fiction-day",
-    "tier": 0,
-    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/stock_screener/commit/d61121311682472cabde991735fb9cf6a0998ee7\">d611213</a>\n- <a href=\"https://github.com/hirawatt/finance-tools/commit/6659e10aaabee1d800092e0554ff66cba1d6b776\">6659e10</a>\n- <a href=\"https://github.com/hirawatt/stock-search/commit/8cdf1af4b32611365caba8e11b81b3758d92ef5d\">8cdf1af</a>\n- <a href=\"https://github.com/hirawatt/finance-tools/commit/aaa0038063f68f89c356f220510ff9057287e294\">aaa0038</a>\n- <a href=\"https://github.com/hirawatt/stock-search/commit/9d949ab7c0727d691d16cf8381ddb4d952cff6cf\">9d949ab</a>\n- <a href=\"https://github.com/hirawatt/stock-search/commit/477b0d4f1f2f1f4e49557b036ffdf0030153b968\">477b0d4</a>",
-    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/tech/commit/aa5d8785dc4d13db0480c382d06fc02720e16de8\">aa5d878</a>: Fix cookie banner fixed at bottom for mobile view\n- <a href=\"https://github.com/hirawatt/tech/commit/6e819ef6c183e565439d55c3b1c1cc07f835ea28\">6e819ef</a>: Fix mobile view menu options and cookie banner layout",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "mass-delete-commit-10k",
-    "tier": 2,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/hirawatt/tech/commit/7698ac7870cda4b4edc00fa23e89808b2981e9bb\">7698ac7</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   }
 ]
